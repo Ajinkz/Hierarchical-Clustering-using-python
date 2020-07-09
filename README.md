@@ -1,2 +1,2 @@
-# Hierarchical-Clusteringusing-python
+# Hierarchical-Clustering-using-python
 Perform Clustering in Python
